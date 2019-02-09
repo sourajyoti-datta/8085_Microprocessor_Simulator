@@ -1,8 +1,11 @@
 # 8085_Microprocessor_Simulator
 8085 Microprocessor Simulator, JAVA Based, As a replacement for the Trainer Kit
 
+
 •	Platform: Java Development Kit JDK-1.7, Java Swing Framework
+
 •	Tools: Netbeans IDE 6.7.1
+
 
 About:
 Microprocessors are generally very complicated integrated circuit chips which are a difficult
