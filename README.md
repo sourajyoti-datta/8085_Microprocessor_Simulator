@@ -23,13 +23,13 @@ method is simulation. Cambridge Advanced Learner's Dictionary [2008] defines a s
 to teach someone how to do something, or the process of
 making such a model”
 
-However, pure theoretical teaching of the subject does not fully clarifies what the student is
+However, pure theoretical teaching of the subject does not fully clarify what the student is
 expected to understand, and this is the time when simulation comes in, to bridge the gap between
 the theory and the real word. One of the most valuable features of simulation is that students
 have an opportunity to apply their theoretical knowledge in a safe realistic environment.
 Microprocessor simulation reveals real situations of inner microprocessor processes. The
 advantage of simulation is that user has a capability to graphically illustrate the whole process
 and display the internal state at any time of the execution. Additionally, instructions can be
-executed step-by-step method which stops the execution after each instruction, thus students
+executed in a step-by-step method which stops the execution after each instruction, thus students
 have an opportunity to identify the changes that have been made after each step.
 
