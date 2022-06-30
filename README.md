@@ -1,13 +1,17 @@
-# 8085_Microprocessor_Simulator
-8085 Microprocessor Simulator, JAVA Based, As a replacement for the Trainer Kit
+# 8085 Microprocessor Simulator
+### Bachelor's thesis work, Haldia Institute of technology, 2011-2012
 
+-	Platform: Java Development Kit JDK-1.7, Java Swing Framework
+- Tools: Netbeans IDE 6.7.1
 
-•	Platform: Java Development Kit JDK-1.7, Java Swing Framework
+Complete code and usage guide: [Link](https://github.com/sourajyoti-datta/8085_Microprocessor_Simulator/blob/master/Project%20Documentation/Project_Report.pdf) <br>
 
-•	Tools: Netbeans IDE 6.7.1
+# GUI preview
+<p align="center">
+  <img src="https://github.com/sourajyoti-datta/8085_Microprocessor_Simulator/blob/master/Simulator_GUI.png">
+</p>
 
-
-About:
+# About:
 Microprocessors are generally very complicated integrated circuit chips which are a difficult
 subject to teach. It is an important topic in computer architectures, as it is the fundamental part
 of every computer system. Possibility of large calculations in a small amount of time,
