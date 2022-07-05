@@ -4,7 +4,8 @@
 -	Platform: Java Development Kit JDK-1.7, Java Swing Framework
 - Tools: Netbeans IDE 6.7.1
 
-Complete project report: [Link](https://github.com/sourajyoti-datta/8085_Microprocessor_Simulator/blob/master/Project%20Documentation/Project_Report.pdf) <br>
+Complete project report: [Here](https://github.com/sourajyoti-datta/8085_Microprocessor_Simulator/blob/master/Project%20Documentation/Project_Report.pdf) <br>
+Built executable, and execution: [Here](https://github.com/sourajyoti-datta/8085_Microprocessor_Simulator/tree/master/Executables%20Built) <br>
 
 # GUI preview
 <p align="center">
